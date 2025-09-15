@@ -1,6 +1,6 @@
 <?php
-// Nama: [Isi Nama Anda]
-// NIM : [Isi NIM Anda]
+// Nama: [Alfath Akbar Yudiantp]
+// NIM : [21060123140178]
 
 include "db.php";
 

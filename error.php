@@ -1,6 +1,6 @@
 <?php
-// Nama: [Isi Nama Anda]
-// NIM : [Isi NIM Anda]
+// Nama: [Alfath Akbar Yudiantp]
+// NIM : [21060123140178]
 
 $message = isset($_GET['msg']) ? $_GET['msg'] : "Terjadi kesalahan.";
 ?>

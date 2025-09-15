@@ -1,4 +1,6 @@
 <?php
+// Nama: [Alfath Akbar Yudiantp]
+// NIM : [21060123140178]
 include "db.php";
 
 // Pagination
